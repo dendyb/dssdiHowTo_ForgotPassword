@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to DSSDI HowTo
 
-You can use the [editor on GitHub](https://github.com/dendyb/dssdiHowTo_ForgotPassword/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dokumen panduan untuk melakukan tahap Reset/Forgot Password Akun UGM
+Guidance to Reset/Forgot Password for UGM Account  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Target
 
-### Markdown
+Mahasiswa, Dosen, Tenaga Kependidikan
+Student, Lecturer, Supporting Staff
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Update
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dendyb/dssdiHowTo_ForgotPassword/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Maret, 2022
+March, 2022
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[DSSDI](https://dssdi.ugm.ac.id) or 
+[contact support](dssdi@ugm.ac.id)
