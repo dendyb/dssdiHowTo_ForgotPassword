@@ -15,5 +15,9 @@ March, 2022
 
 ### Support or Contact
 
-[DSSDI](https://dssdi.ugm.ac.id) or <br/>
-[contact support](dssdi@ugm.ac.id)
+[DSSDI](https://dssdi.ugm.ac.id) or [contact support](dssdi@ugm.ac.id)
+
+
+## Link
+🇮🇩 [Bahasa Indonesia](bahasa.md)<br/> 
+🇬🇧 [English](english.md)
