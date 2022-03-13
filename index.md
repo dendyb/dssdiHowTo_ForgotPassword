@@ -1,7 +1,7 @@
 ## Welcome to DSSDI HowTo
 
 Dokumen panduan untuk melakukan tahap Reset/Forgot Password Akun UGM<br/>
-Guidance to Reset/Forgot Password for UGM Account  
+Guidance to Reset/Forgot Password of UGM Account  
 
 ### Target
 
