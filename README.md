@@ -1,5 +1,5 @@
-# Panduan
-Panduan Online Reset / Forgot Password Akun UGM
+# Dokumen
+Petunjuk & Tahapan Reset / Forgot Password Akun UGM
 
 ## Sasaran
 Sivitas Akademik Universitas Gadjah Mada (Mahasiswa, Dosen, Tenaga Kependidikan)

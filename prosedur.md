@@ -1,16 +1,11 @@
-# Panduan Reset Password Akun UGM
-
-## Sasaran
-untuk Sivitas Akademik Universitas Gadjah Mada (Mahasiswa, Dosen, Tendik)
-
-## Update
-Maret 2022
+# Reset Password Akun UGM
 
 ## Persyaratan
-Penggantian password Akun UGM memerlukan user / pengguna untuk ingat akun email alternatif yang disimpan pada Aplikasi Simaster UGM. Jika user lupa akun alternatif, silahkan kontak **DSSDI UGM**  dssdi@ugm.ac.id untuk pengirima password baru
+Penggantian password Akun UGM mewajibkan user/pemilik akun untuk ingat  email alternatif yang disimpan pada Aplikasi Simaster UGM. Jika user/pemilik akun lupa email alternatif yang dimiliki, silahkan kontak **DSSDI UGM**  dssdi@ugm.ac.id untuk pengirima password baru. Link Reset Password akan dikirimkan ke email tersebut.
 
 ## Dokumen yang diperlukan
-Foto diri / selfie dengan menyertakan Identitas yang dimiliki (Kartu Pegawai, Kartu Mahasiswa / Cetakan atau menyertakan KTM elektronik )
+Jika user/pemilik akun SSO tidak akan melakukan secara mandiri, petugas Layanan TIK akan membantu dengan syarat :
+kirimkan foto diri / selfie dengan menyertakan Identitas yang dimiliki (Kartu Pegawai, Kartu Mahasiswa/cetakan atau menyertakan KTM elektronik)
 
 ## Lama Proses
-antra 1 - 5 menit ( email alternatif ingat dan  tanpa proses cek email alternatif ke dssdi@ugm.ac.id )
+antara 1 - 5 menit (dilakukan secara mandiri dan user ingat email alternatif yang dimiliki)
