@@ -14,7 +14,7 @@ dssdi.ugm.ac.id
 dssdi.ugm.ac.id/layanan
 
 ## Channel Youtube
-ugm.id/dssdiHowTo
+[DSSDI How To](http://ugm.id/dssdiHowTo)
 
 
 
