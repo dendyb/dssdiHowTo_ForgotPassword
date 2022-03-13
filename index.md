@@ -14,6 +14,6 @@ Student, Lecturer, Supporting Staff
 March, 2022
 
 ### Support or Contact
-[DSSDI](https://dssdi.ugm.ac.id) or [contact support](dssdi@ugm.ac.id)
+[DSSDI](https://dssdi.ugm.ac.id) or email <dssdi@ugm.ac.id>
 
 
